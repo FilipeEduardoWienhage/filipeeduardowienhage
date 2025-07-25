@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+
+<p>
+📲 Connect with me: 
+<a href="https://www.instagram.com/filipeeduw/" target="_blank" rel="noopener noreferrer">Instagram</a>,  
+<a href="https://www.linkedin.com/in/filipewienhage/" target="_blank" rel="noopener noreferrer">LinkedIn</a> - 
+where I share programming content and insights.
+</p>
+
 <p align="center">
   ## Linguagens
 </p>
