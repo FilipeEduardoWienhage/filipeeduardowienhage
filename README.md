@@ -1,19 +1,18 @@
-# Hi there 👋
+# Hi there, 
+I’m Filipe Wienhage, a Junior Software Developer focused on evolving in full-stack web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on:
+  - Developing and maintaining systems using **Visual FoxPro** at my current job.
+  - Building a **personal financial web system** using **Python (FastAPI)**, **Angular (PrimeNG)**
+- 🌱 I’m currently learning:
+  - **Full-stack web development** (Frontend & Backend).
+- ⚡ Fun fact:
+  - I have a background in **Physical Education**
 
 <p>
 📲 Connect with me: 
 <a href="https://www.instagram.com/filipeeduw/" target="_blank" rel="noopener noreferrer">Instagram</a>,  
-<a href="https://www.linkedin.com/in/filipewienhage/" target="_blank" rel="noopener noreferrer">LinkedIn</a> - 
-where I share programming content and insights.
+<a href="https://www.linkedin.com/in/filipewienhage/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 <div>
@@ -22,35 +21,35 @@ where I share programming content and insights.
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=filipeeduardowienhage&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## Linguagens
+## 📝 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,py,java" />
   </a>
 </p>
 
-## Frameworks
+## ⚙️ Frameworks & Libraries
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,django,fastapi" />
   </a>
 </p>
 
-## Bancos
+## 🗄️ Databases
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 
-## IDE's
+## 🖥️ IDEs & Code Editors
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,vscode" />
   </a>
 </p>
 
-## Versionamento
+## 🗂️ Version Control
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
