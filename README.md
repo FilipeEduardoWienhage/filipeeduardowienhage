@@ -12,12 +12,9 @@ public class FilipeWienhage {
 }
 ```
 
-<p>
-📲 Connect with me: 
-    <a href="https://www.linkedin.com/in/filipewienhage" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Filipe's Linkedin" target="_blank"></a>
-<a href="https://www.instagram.com/filipeeduw/" target="_blank" rel="noopener noreferrer">Instagram</a>,  
-<a href="https://www.linkedin.com/in/filipewienhage/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-</p>
+
+<a href="https://www.linkedin.com/in/filipewienhage" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Filipe's Linkedin" target="_blank"></a>
+
 
 <div>
 <a href="https://github.com/filipeeduardowienhage">
