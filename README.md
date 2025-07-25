@@ -1,8 +1,37 @@
 ## Hi there 👋
 
 <p align="center">
+  ## Linguagens
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,css,html,django,eclipse,fastapi,git,github,gitlab,js,jquery,mysql,py,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,py,java" />
+  </a>
+</p>
+
+<p align="center">
+  ## Frameworks
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,django,fastapi" />
+  </a>
+</p>
+
+<p align="center">
+  ## Bancos
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+<p align="center">
+  ## IDE's
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,vscode" />
+  </a>
+</p>
+
+<p align="center">
+  ## Versionamento
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
   </a>
 </p>
 
