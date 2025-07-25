@@ -1,35 +1,40 @@
 ## Hi there 👋
-
 <p align="center">
   ## Linguagens
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,py,java" />
   </a>
 </p>
-
 <p align="center">
   ## Frameworks
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,django,fastapi" />
   </a>
 </p>
-
 <p align="center">
   ## Bancos
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
-
 <p align="center">
   ## IDE's
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,vscode" />
   </a>
 </p>
-
 <p align="center">
   ## Versionamento
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
   </a>
