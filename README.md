@@ -1,4 +1,4 @@
-# Hi there, 
+# Hello, let's build something great together!, 
 
 ```java
 public class FilipeWienhage {
