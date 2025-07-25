@@ -21,17 +21,15 @@ I’m Filipe Wienhage, a Junior Software Developer focused on evolving in full-s
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=filipeeduardowienhage&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div align="center">
 ## 📝 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,py,java" />
   </a>
 </p>
-</div>
 
-## ⚙️ Frameworks & Libraries
 <p align="center">
+  <b>⚙️ Frameworks & Libraries</b><br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,django,fastapi" />
   </a>
