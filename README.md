@@ -7,6 +7,12 @@
 where I share programming content and insights.
 </p>
 
+<div>
+<a href="https://github.com/filipeeduardowienhage">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipeeduardowienhage&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=filipeeduardowienhage&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <p align="center">
   ## Linguagens
 </p>
