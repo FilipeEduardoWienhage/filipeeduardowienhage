@@ -1,5 +1,13 @@
 # Hi there, 
-I’m Filipe Wienhage, a Junior Software Developer focused on evolving in full-stack web development.
+
+```java
+public class FilipeWienhage {
+    public static final String ROLE = "Junior Software Developer";
+    public static final String FROM = "Brasil";
+    public static final String CURRENT_PROJECT = "Financial Web System (Python + Angular)";
+    }
+}
+```
 
 - 🔭 I’m currently working on:
   - Developing and maintaining systems using **Visual FoxPro** at my current job.
