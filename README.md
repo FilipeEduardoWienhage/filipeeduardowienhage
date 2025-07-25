@@ -22,35 +22,35 @@ I’m Filipe Wienhage, a Junior Software Developer focused on evolving in full-s
 </div>
 
 ## 📝 Programming Languages
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,jquery,js,ts,py,java" />
   </a>
 </p>
 
-<p align="center">
-  <b>⚙️ Frameworks & Libraries</b><br>
+## ⚙️ Frameworks & Libraries</b><br>
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,django,fastapi" />
   </a>
 </p>
 
 ## 🗄️ Databases
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
 </p>
 
 ## 🖥️ IDEs & Code Editors
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=eclipse,vscode" />
   </a>
 </p>
 
 ## 🗂️ Version Control
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
   </a>
