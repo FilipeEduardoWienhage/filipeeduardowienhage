@@ -3,19 +3,14 @@
 ```java
 public class FilipeWienhage {
     public static final String ROLE = "Junior Software Developer";
-    public static final String FROM = "Brasil";
-    public static final String CURRENT_PROJECT = "Financial Web System (Python + Angular)";
+    public static final String FROM = "Blumenau - Brasil";
+    public static final String CURRENT_JOB = "Developing and maintaining systems using Visual FoxPro";
+    public static final String PERSONAL_PROJECT = "Building a Financial Web System with Python (FastAPI), Angular (PrimeNG), and MySQL";
+    public static final String LEARNING = "Full-stack web development (Frontend & Backend)";
+    public static final String FUN_FACT = "I have a background in Physical Education";
     }
 }
 ```
-
-- 🔭 I’m currently working on:
-  - Developing and maintaining systems using **Visual FoxPro** at my current job.
-  - Building a **personal financial web system** using **Python (FastAPI)**, **Angular (PrimeNG)**
-- 🌱 I’m currently learning:
-  - **Full-stack web development** (Frontend & Backend).
-- ⚡ Fun fact:
-  - I have a background in **Physical Education**
 
 <p>
 📲 Connect with me: 
