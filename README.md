@@ -1,15 +1,21 @@
 # Hello, let's build something great together!
 
-```java
-public class FilipeWienhage {
-    public static final String ROLE = "Junior Software Developer";
-    public static final String FROM = "Blumenau - Brasil";
-    public static final String CURRENT_JOB = "Developing and maintaining systems using Visual FoxPro";
-    public static final String PERSONAL_PROJECT = "Building a Financial Web System with Python (FastAPI), Angular (PrimeNG), and MySQL";
-    public static final String LEARNING = "Full-stack web development (Frontend & Backend)";
-    public static final String FUN_FACT = "I have a background in Physical Education";
-    }
-}
+```python
+class FilipeWienhage:
+    ROLE = "Junior Software Developer"
+    FROM_ = "Blumenau - Brasil"
+    CURRENT_JOB = "Developing and maintaining systems using Visual FoxPro"
+    PERSONAL_PROJECT = "Building a Financial Web System with Python (FastAPI), Angular (PrimeNG), and MySQL"
+    LEARNING = "Full-stack web development (Frontend & Backend)"
+    FUN_FACT = "I have a background in Physical Education"
+
+if __name__ == "__main__":
+    print(f"Role: {FilipeWienhage.ROLE}")
+    print(f"From: {FilipeWienhage.FROM_}")
+    print(f"Current Job: {FilipeWienhage.CURRENT_JOB}")
+    print(f"Personal Project: {FilipeWienhage.PERSONAL_PROJECT}")
+    print(f"Learning: {FilipeWienhage.LEARNING}")
+    print(f"Fun Fact: {FilipeWienhage.FUN_FACT}")
 ```
 
 
